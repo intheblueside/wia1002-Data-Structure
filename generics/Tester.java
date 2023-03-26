@@ -13,7 +13,7 @@ import java.util.ArrayList;
  */
 public class Tester {
     public static void main(String[] args) {
-        /*
+        /* question 1
         //create instance string, integer
         MyGenerics<String> strObj = new MyGenerics<>();
         MyGenerics<Integer> intObj = new MyGenerics<>();
@@ -28,6 +28,7 @@ public class Tester {
         
         */
         
+        //question 2
         //create objects 
         StorePair<Integer> obj1 = new StorePair<>(6,4);
         StorePair<Integer> obj2 = new StorePair<>(2,2);
